@@ -1,0 +1,9 @@
+node main.js edit id=1 title=gerges body=mina
+
+
+
+node main.js add  title=gerges body=victor
+
+
+
+ node main.js check id=1
